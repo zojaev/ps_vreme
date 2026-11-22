@@ -1,4 +1,4 @@
-module ps_vreme
+module github.com/zojaev/ps_vreme
 
 go 1.27.2
 
