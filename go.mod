@@ -6,7 +6,7 @@ require (
 	github.com/gdamore/tcell/v2 v2.13.10
 	github.com/rivo/tview v0.42.0
 	github.com/urfave/cli/v3 v3.14.0
-	github.com/zojaev/ps_vreme v1.0.0
+	github.com/zojaev/ps_vreme/vreme v1.0.0
 )
 
 require (
